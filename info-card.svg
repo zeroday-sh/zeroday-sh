@@ -1,0 +1,27 @@
+<svg width="490" height="240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; }
+    .k { fill: #7ee787; font-weight: bold; }
+    .v { fill: #c9d1d9; }
+    .h { fill: #58a6ff; font-weight: bold; font-size: 14px; }
+    .sep { fill: #30363d; }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1"/>
+  <g transform="translate(20, 30)" class="t">
+    <text y="0" class="h">zeroday<tspan fill="#8b949e">@</tspan>github</text>
+    <text y="16" class="sep">--------------------------</text>
+    <text y="42"><tspan class="k">OS:</tspan> <tspan class="v">Linux (Zen Kernel / btrfs)</tspan></text>
+    <text y="66"><tspan class="k">Host:</tspan> <tspan class="v">zeroday-sh</tspan></text>
+    <text y="90"><tspan class="k">Shell:</tspan> <tspan class="v">fish</tspan></text>
+    <text y="114"><tspan class="k">Focus:</tspan> <tspan class="v">Cybersecurity, Python, Systems</tspan></text>
+    <text y="138"><tspan class="k">Status:</tspan> <tspan class="v">Building things &amp; breaking stuff</tspan></text>
+    <text y="162"><tspan class="k">Editor:</tspan> <tspan class="v">Terminal</tspan></text>
+    <g transform="translate(0, 182)">
+      <circle cx="8" cy="0" r="6" fill="#ff7b72"/>
+      <circle cx="26" cy="0" r="6" fill="#7ee787"/>
+      <circle cx="44" cy="0" r="6" fill="#d29922"/>
+      <circle cx="62" cy="0" r="6" fill="#58a6ff"/>
+      <circle cx="80" cy="0" r="6" fill="#bc8cff"/>
+    </g>
+  </g>
+</svg>

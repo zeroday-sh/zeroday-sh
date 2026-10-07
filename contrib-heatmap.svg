@@ -217,7 +217,7 @@
 <rect x="435" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.495s; opacity: 0;"/>
 <rect x="435" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.510s; opacity: 0;"/>
 <rect x="435" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.525s; opacity: 0;"/>
-<rect x="450" y="0" width="11" height="11" rx="2" fill="#006d32" style="animation: fadeIn 0.4s ease forwards 0.450s; opacity: 0;"/>
+<rect x="450" y="0" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.450s; opacity: 0;"/>
 <rect x="450" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.465s; opacity: 0;"/>
 <rect x="450" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.480s; opacity: 0;"/>
 <rect x="450" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.495s; opacity: 0;"/>
@@ -374,5 +374,6 @@
 <rect x="780" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.780s; opacity: 0;"/>
 <rect x="780" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.795s; opacity: 0;"/>
 <rect x="780" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.810s; opacity: 0;"/>
+<rect x="780" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.825s; opacity: 0;"/>
 </g>
 </svg>
